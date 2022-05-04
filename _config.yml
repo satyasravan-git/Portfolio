@@ -1,6 +1,18 @@
-title: Satyasravan Sankranti
+title: <p align="center"> Satyasravan Sankranti </p>
 logo: /assets/img/logo.png
-description: Minimal is a theme for GitHub Pages.
-show_downloads: true
-google_analytics:
+
+description:
+  <p align="center">
+  <a href="www.linkedin.com/in/satyasravan-sankranti-883748236/">LinkedIn</a> |
+  <a href="https://github.com/satyasravan-git">GitHub</a>
+  
+  <br>   
+  I'm currently working as AWS cloud solution architect.
+  Also pursuing EX PGP in AI and ML from Upgrad and IITB.
+  Worked with Oracle SSI for a period of 6.5 years.
+  <br>
+  </p>
+
+
+
 theme: jekyll-theme-minimal
